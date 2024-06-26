@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         ADblocker4DeepinBBS
 // @namespace    http://tampermonkey.net/
-// @version      2024-06-25
+// @version      2024-06-26
 // @description  block AD-like Users in DeepinBBS
 // @author       fallingstar10
 // @match        https://bbs.deepin.org/post/*
 // @match        https://bbs.deepin.org/zh/post/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=deepin.org
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
